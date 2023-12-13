@@ -18,10 +18,10 @@
       <div class="container">
         <div class="row">
           <div class="offset-1 col-10 offset-1 text-center my-5">
-            <h4>
+            <h1>
               Chapter # 8 - 14 | Concatenation | Prompts | if ... else
               | else if Statements
-            </h4>
+            </h1>
             <div class="border-bottom mt-4 border-secondary"></div>
           </div>
         </div>
