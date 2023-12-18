@@ -1,6 +1,4 @@
 # JS-Assignment_2
-
-
   <body>
     <main>
       <div class="container">
