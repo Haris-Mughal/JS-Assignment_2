@@ -1,7 +1,7 @@
 # JS-Assignment_2
   <body>
     <main>
-      <div class="container">
+      <div class="container"> 
         <div class="row">
           <div class="offset-1 col-10 offset-1 text-center my-5">
             <h1>
